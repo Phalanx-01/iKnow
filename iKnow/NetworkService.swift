@@ -6,7 +6,7 @@ class NetworkService {
     func uploadAudioFile(url: URL) -> Future<URL, Error> {
         return Future { promise in
             let boundary = "Boundary-\(UUID().uuidString)"
-            guard let uploadURL = URL(string: "http://xyz:8000/process-audio") else {
+            guard let uploadURL = URL(string: "http://80.158.59.245:8000/process-audio") else {
                 promise(.failure(URLError(.badURL)))
                 return
             }
