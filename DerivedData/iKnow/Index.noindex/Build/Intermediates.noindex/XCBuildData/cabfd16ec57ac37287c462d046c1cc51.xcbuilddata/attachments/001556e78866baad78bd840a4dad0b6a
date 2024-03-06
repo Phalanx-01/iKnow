@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphoneos/iKnow.build/Objects-normal/arm64/iKnow-master.d",
+    "diagnostics" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphoneos/iKnow.build/Objects-normal/arm64/iKnow-master.dia",
+    "emit-module-dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphoneos/iKnow.build/Objects-normal/arm64/iKnow-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphoneos/iKnow.build/Objects-normal/arm64/iKnow-master-emit-module.dia",
+    "swift-dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphoneos/iKnow.build/Objects-normal/arm64/iKnow-master.swiftdeps"
+  },
+  "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphoneos/iKnow.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnow/AudioRecorderViewModel.swift" : {
+
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnow/AudioService.swift" : {
+
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnow/ContentView.swift" : {
+
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnow/iKnowApp.swift" : {
+
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnow/NetworkService.swift" : {
+
+  }
+}

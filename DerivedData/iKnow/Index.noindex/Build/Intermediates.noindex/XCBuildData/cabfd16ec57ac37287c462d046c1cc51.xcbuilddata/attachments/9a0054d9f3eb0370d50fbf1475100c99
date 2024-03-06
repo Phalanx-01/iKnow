@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug/iKnowUITests.build/Objects-normal/x86_64/iKnowUITests-master.d",
+    "diagnostics" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug/iKnowUITests.build/Objects-normal/x86_64/iKnowUITests-master.dia",
+    "emit-module-dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug/iKnowUITests.build/Objects-normal/x86_64/iKnowUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug/iKnowUITests.build/Objects-normal/x86_64/iKnowUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug/iKnowUITests.build/Objects-normal/x86_64/iKnowUITests-master.swiftdeps"
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnowUITests/iKnowUITests.swift" : {
+
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnowUITests/iKnowUITestsLaunchTests.swift" : {
+
+  }
+}

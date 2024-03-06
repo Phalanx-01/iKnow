@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphonesimulator/iKnowTests.build/Objects-normal/x86_64/iKnowTests-master.d",
+    "diagnostics" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphonesimulator/iKnowTests.build/Objects-normal/x86_64/iKnowTests-master.dia",
+    "emit-module-dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphonesimulator/iKnowTests.build/Objects-normal/x86_64/iKnowTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphonesimulator/iKnowTests.build/Objects-normal/x86_64/iKnowTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/iKnow.build/Debug-iphonesimulator/iKnowTests.build/Objects-normal/x86_64/iKnowTests-master.swiftdeps"
+  },
+  "/Users/t-sysdev/Desktop/iKnow/iKnowTests/iKnowTests.swift" : {
+
+  }
+}

@@ -1,0 +1,21 @@
+Target dependency graph (12 targets)
+Target 'iKnowUITests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowUITests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowUITests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowUITests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowTests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowTests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowTests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnowTests' in project 'iKnow'
+➜ Explicit dependency on target 'iKnow' in project 'iKnow'
+Target 'iKnow' in project 'iKnow' (no dependencies)
+Target 'iKnow' in project 'iKnow' (no dependencies)
+Target 'iKnow' in project 'iKnow' (no dependencies)
+Target 'iKnow' in project 'iKnow' (no dependencies)

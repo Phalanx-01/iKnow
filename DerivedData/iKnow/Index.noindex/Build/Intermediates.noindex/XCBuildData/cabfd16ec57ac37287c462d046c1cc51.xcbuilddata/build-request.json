@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "b76aa55c628f4a54f61694b6101480fd0291e4957c7eacb90ca6899e8fd166f3"
+    },
+    {
+      "guid" : "b76aa55c628f4a54f61694b6101480fd4e64484bf62a9b15c00185ee9a7779d6"
+    },
+    {
+      "guid" : "b76aa55c628f4a54f61694b6101480fd7a24d30ee683de205c31da41b8709e70"
+    }
+  ],
+  "containerPath" : "/Users/t-sysdev/Desktop/iKnow/iKnow.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Build/Products",
+      "pchPath" : "/Users/t-sysdev/Desktop/iKnow/DerivedData/iKnow/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
